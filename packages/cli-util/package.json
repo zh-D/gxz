@@ -1,5 +1,5 @@
 {
-  "name": "@dzh/cli-util",
+  "name": "@dzhjs/cli-util",
   "version": "1.0.1",
   "description": "> TODO: description",
   "author": "zh-D <1641245614@qq.com>",
@@ -25,5 +25,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "d19306bcf20cd57938ccca7513065d3e74b4a374"
 }

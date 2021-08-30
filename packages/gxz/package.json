@@ -1,5 +1,5 @@
 {
-  "name": "gxz",
+  "name": "@dzhjs/gxz",
   "version": "1.0.1",
   "description": "command line interface for gxz",
   "author": "zh-D <1641245614@qq.com>",
@@ -28,5 +28,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "d19306bcf20cd57938ccca7513065d3e74b4a374"
 }
