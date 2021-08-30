@@ -22,5 +22,8 @@
   },
   "bugs": {
     "url": "https://github.com/zh-D/gxz/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
