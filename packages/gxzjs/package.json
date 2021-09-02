@@ -14,7 +14,8 @@
     "gxzjs": "./bin/gxzjs.js"
   },
   "files": [
-    "lib"
+    "lib",
+    "bin"
   ],
   "repository": {
     "type": "git",
